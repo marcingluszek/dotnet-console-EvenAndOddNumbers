@@ -36,7 +36,7 @@ namespace EvenAndOddNumbers
                 }
                 else
                 {
-                    Console.WriteLine("It's not the number (or it's out of range)!");
+                    Console.WriteLine("It's not the number (or this number out of range)!");
                     continue;
                 }
             }
