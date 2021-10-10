@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenAndOddNumbers", "EvenAndOddNumbers\EvenAndOddNumbers.csproj", "{1824E58F-D622-4DBF-8538-9E6DA34EFFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1824E58F-D622-4DBF-8538-9E6DA34EFFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1824E58F-D622-4DBF-8538-9E6DA34EFFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1824E58F-D622-4DBF-8538-9E6DA34EFFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1824E58F-D622-4DBF-8538-9E6DA34EFFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {239993DB-EA25-49FD-BEAD-779151CCF74B}
+	EndGlobalSection
+EndGlobal
