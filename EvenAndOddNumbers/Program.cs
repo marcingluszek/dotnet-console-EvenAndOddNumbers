@@ -16,7 +16,7 @@ namespace EvenAndOddNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome in the EvenAndOddNumbers! We'll check if your number is even or odd!");
+            Console.WriteLine("Welcome in the EvenAndOddNumbers! We'll check if your number is even or odd!\nPress ALT+F4 if you want to close the app.");
 
             while (true)
             {
