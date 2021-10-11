@@ -26,19 +26,17 @@ namespace EvenAndOddNumbers
                     if (userNum % 2 == 0)
                     {
                         Console.WriteLine("It's the even number!");
-                        continue;
                     }
                     else
                     {
                         Console.WriteLine("It's the odd number!");
-                        continue;
                     }
                 }
                 else
                 {
                     Console.WriteLine("It's not the number (or this number out of range)!");
-                    continue;
                 }
+                continue;
             }
 
             Console.ReadLine();
